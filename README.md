@@ -1,3 +1,10 @@
+conda create --name "Os_base" python=3.9 --yes
+
+
+
+
+
+
 # mlops
 
 #MLOPS 3PFreamwork
