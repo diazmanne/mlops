@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lab/Workspace/MLOps/mlruns/0/c833d347ce4542219f7e24a9e9a55c90/artifacts
+end_time: 1736705383936
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c833d347ce4542219f7e24a9e9a55c90
+run_name: rogue-fox-219
+run_uuid: c833d347ce4542219f7e24a9e9a55c90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736705379193
+status: 3
+tags: []
+user_id: lab

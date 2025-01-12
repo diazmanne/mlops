@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lab/Workspace/MLOps/mlruns/0/129241e56dd9401599486eba021baa43/artifacts
+end_time: 1736704326782
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 129241e56dd9401599486eba021baa43
+run_name: intrigued-slug-295
+run_uuid: 129241e56dd9401599486eba021baa43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736704321371
+status: 3
+tags: []
+user_id: lab
