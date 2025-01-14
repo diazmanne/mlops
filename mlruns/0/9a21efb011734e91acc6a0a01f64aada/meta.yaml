@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lab/Workspace/MLOps/mlruns/0/9a21efb011734e91acc6a0a01f64aada/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a21efb011734e91acc6a0a01f64aada
+run_name: nervous-sheep-707
+run_uuid: 9a21efb011734e91acc6a0a01f64aada
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736893522302
+status: 1
+tags: []
+user_id: lab

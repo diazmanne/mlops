@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lab/Workspace/MLOps/mlruns/0/a3f24840370342d6ab11337f7dcaec6f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3f24840370342d6ab11337f7dcaec6f
+run_name: fearless-eel-57
+run_uuid: a3f24840370342d6ab11337f7dcaec6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736894050665
+status: 1
+tags: []
+user_id: lab

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lab/Workspace/MLOps/mlruns/0/f83d7721ad274876ba9483617604371c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f83d7721ad274876ba9483617604371c
+run_name: victorious-snipe-645
+run_uuid: f83d7721ad274876ba9483617604371c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736895208841
+status: 1
+tags: []
+user_id: lab
