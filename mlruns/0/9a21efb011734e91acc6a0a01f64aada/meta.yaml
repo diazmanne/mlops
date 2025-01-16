@@ -1,8 +1,9 @@
 artifact_uri: file:///home/lab/Workspace/MLOps/mlruns/0/9a21efb011734e91acc6a0a01f64aada/artifacts
+deleted_time: 1736896292797
 end_time: null
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9a21efb011734e91acc6a0a01f64aada
 run_name: nervous-sheep-707
 run_uuid: 9a21efb011734e91acc6a0a01f64aada

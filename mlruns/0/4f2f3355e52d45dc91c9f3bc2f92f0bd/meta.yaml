@@ -1,0 +1,16 @@
+artifact_uri: file:///home/lab/Workspace/MLOps/mlruns/0/4f2f3355e52d45dc91c9f3bc2f92f0bd/artifacts
+deleted_time: 1736898407821
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4f2f3355e52d45dc91c9f3bc2f92f0bd
+run_name: nervous-seal-166
+run_uuid: 4f2f3355e52d45dc91c9f3bc2f92f0bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736897052676
+status: 1
+tags: []
+user_id: lab

@@ -1,8 +1,9 @@
 artifact_uri: file:///home/lab/Workspace/MLOps/mlruns/0/c833d347ce4542219f7e24a9e9a55c90/artifacts
+deleted_time: 1736896292798
 end_time: 1736705383936
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c833d347ce4542219f7e24a9e9a55c90
 run_name: rogue-fox-219
 run_uuid: c833d347ce4542219f7e24a9e9a55c90

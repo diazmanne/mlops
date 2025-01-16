@@ -1,8 +1,9 @@
 artifact_uri: file:///home/lab/Workspace/MLOps/mlruns/0/f83d7721ad274876ba9483617604371c/artifacts
+deleted_time: 1736896292782
 end_time: null
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f83d7721ad274876ba9483617604371c
 run_name: victorious-snipe-645
 run_uuid: f83d7721ad274876ba9483617604371c

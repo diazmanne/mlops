@@ -1,0 +1,16 @@
+artifact_uri: file:///home/lab/Workspace/MLOps/mlruns/0/36c6f5c0033c4e07be728d29eb70b70e/artifacts
+deleted_time: 1736898407819
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 36c6f5c0033c4e07be728d29eb70b70e
+run_name: judicious-trout-40
+run_uuid: 36c6f5c0033c4e07be728d29eb70b70e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736897527483
+status: 1
+tags: []
+user_id: lab

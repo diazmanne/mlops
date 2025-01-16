@@ -1,8 +1,9 @@
 artifact_uri: file:///home/lab/Workspace/MLOps/mlruns/0/129241e56dd9401599486eba021baa43/artifacts
+deleted_time: 1736896292800
 end_time: 1736704326782
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 129241e56dd9401599486eba021baa43
 run_name: intrigued-slug-295
 run_uuid: 129241e56dd9401599486eba021baa43

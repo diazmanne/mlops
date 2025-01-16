@@ -1,8 +1,9 @@
 artifact_uri: file:///home/lab/Workspace/MLOps/mlruns/0/a3f24840370342d6ab11337f7dcaec6f/artifacts
+deleted_time: 1736896292787
 end_time: null
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a3f24840370342d6ab11337f7dcaec6f
 run_name: fearless-eel-57
 run_uuid: a3f24840370342d6ab11337f7dcaec6f
