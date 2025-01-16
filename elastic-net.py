@@ -77,7 +77,7 @@ if __name__ == "__main__":
 
         
         # For remote server only (Dags)
-        remote_server_uri ="https://dagshub.com/diazmanne/mlops.mlflow"
+        remote_server_uri ="http://ec2-52-14-34-204.us-east-2.compute.amazonaws.com:5000/"
         mlflow.set_tracking_uri(remote_server_uri)
         tracking_url_type_store = urlparse(mlflow.get_tracking_uri()).scheme
 
